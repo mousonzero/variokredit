@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "henlo-tea": "^1.0.1",
+    "sum-three-number": "^1.0.0",
+    "user": "^0.0.0"
+  },
+  "name": "zetastaking",
+  "version": "1.1.2",
+  "main": "rakimans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kenthukuy/zetastaking"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenthukuy/zetastaking/issues"
+  },
+  "homepage": "https://github.com/Kenthukuy/zetastaking#readme",
+  "description": ""
+}
